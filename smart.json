@@ -3,6 +3,6 @@
 	"description": "Meteor smart package of node-imap.",
 	"homepage": "http://github.com/BashtonLtd/meteor-node-imap",
 	"author": "David Watson",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"git": "https://github.com/BashtonLtd/meteor-node-imap.git"
 }
