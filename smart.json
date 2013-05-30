@@ -1,0 +1,8 @@
+{
+	"name": "meteor-node-imap",
+	"description": "Meteor smart package of node-imap.",
+	"homepage": "http://github.com/BashtonLtd/meteor-node-imap",
+	"author": "David Watson",
+	"version": "0.0.1",
+	"git": "https://github.com/BashtonLtd/meteor-node-imap.git"
+}
