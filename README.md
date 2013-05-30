@@ -1,4 +1,4 @@
 meteor-node-imap
 ================
 
-Meteor smart package of the node-map module.
+Meteor smart package of the node-imap module.
