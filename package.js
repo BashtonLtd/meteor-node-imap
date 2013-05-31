@@ -4,7 +4,7 @@ Package.describe({
 
 Npm.depends({
   "utf7": "1.0.0",
-  "imap": 'https://github.com/BashtonLtd/node-imap/tarball/0a8a4d5294f6c3291ddc96efc84c88f4207bece9'
+  "imap": 'https://github.com/BashtonLtd/node-imap/tarball/511f30f0a2d011899a9b82331c1c45e17b546849'
 });
 
 Package.on_use(function (api, where) {
