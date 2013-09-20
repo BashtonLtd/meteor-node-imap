@@ -9,4 +9,5 @@ Npm.depends({
 
 Package.on_use(function (api, where) {
   api.add_files('imap-server.js', 'server');
+  api.export(['Imap'], 'server');
 });
